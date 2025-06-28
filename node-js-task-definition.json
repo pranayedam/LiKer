@@ -81,6 +81,5 @@
     },
     "registeredAt": "2025-06-28T14:42:16.758Z",
     "registeredBy": "arn:aws:iam::946358503853:user/enk_iam",
-    "enableFaultInjection": false,
     "tags": []
 }
